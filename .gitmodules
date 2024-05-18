@@ -1,0 +1,3 @@
+[submodule "scripts/windowlist"]
+	path = scripts/windowlist
+	url = https://github.com/tuurep/windowlist.git
